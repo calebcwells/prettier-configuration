@@ -17,3 +17,5 @@ Prettier config files with rules to be used in all Angular projects.
     }
     ```
 4. Make sure prettier is installed globally with `npm i prettier -g` and run `prettier --write "./**/*.{js,json,ts}` at the root of the Angular project to update all existing files
+
+You can walkthrough setting up Prettier in Visual Studio Code with me at https://youtu.be/5rabp1QFLXE.
